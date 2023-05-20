@@ -2,6 +2,9 @@
 
 Scripts written in Python to get the master database, BGM files, L2D, UB Cutin, etc. from the game Princess Connect! Re: Dive JP Server. Made in Windows 10, so it might not work as intended on other OSs.
 
+## Footnote
+
+This is a fork from MightyZanark's original branch. The intention of this fork is to add all the remaining filetypes, ideally elegantly handle story audio, and other miscellenous things.
 
 ## Requirements
 
