@@ -4,7 +4,7 @@ Scripts written in Python to get the master database, BGM files, L2D, UB Cutin, 
 
 ## Footnote
 
-This is a fork from MightyZanark's original branch. The intention of this fork is to add all the remaining filetypes, ideally elegantly handle story audio, and other miscellenous things.
+This is a fork from MightyZanark's original branch. The intention of this fork is to add all the remaining filetypes, ideally elegantly handle story audio, and potentially sorting by name. If the owner of the main repo wants to merge my changes, go ahead.
 
 ## Requirements
 
